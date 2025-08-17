@@ -1,0 +1,7 @@
+Date,Service,Usage_Type,Amount_Usd
+8/1/2025,AmazonEC2,Compute,25.6
+8/2/2025,AmazonS3,Storage,3.45
+8/3/2025,AmazonRDS,Database,10.2
+8/4/2025,AmazonEC2,Compute,27.1
+8/5/2025,AmazonLambda,Serverless,1.5
+,,,
